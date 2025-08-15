@@ -44,10 +44,13 @@ Cada tópico possui:
    ```bash
    python --version
 2.Clone este repositório:
+```bash
 git clone .....
 
 3.Entre na pasta do projeto:
+```bash
 cd python-basico
 
 4.Execute qualquer arquivo .py:
+```bash
 python nome-do-arquivo.py
