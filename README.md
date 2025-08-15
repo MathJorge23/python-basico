@@ -43,3 +43,11 @@ Cada tópico possui:
 1. Certifique-se de ter o **Python 3** instalado:
    ```bash
    python --version
+2.Clone este repositório:
+git clone .....
+
+3.Entre na pasta do projeto:
+cd python-basico
+
+4.Execute qualquer arquivo .py:
+python nome-do-arquivo.py
